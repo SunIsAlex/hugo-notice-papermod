@@ -1,3 +1,3 @@
-module github.com/martignoni/hugo-notice
+module github.com/SunIsAlex/hugo-notice-papermod
 
 go 1.18
